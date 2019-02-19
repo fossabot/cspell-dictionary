@@ -1,0 +1,12 @@
+{
+  "ignore": ["**/*.d.ts", "**/__fixtures__/**"],
+  "presets": [
+    [
+      "babel-preset-slick/lib",
+      {
+        "env": { "modules": "commonjs" },
+        "runtime": { "corejs": 2 }
+      }
+    ]
+  ]
+}

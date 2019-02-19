@@ -1,0 +1,12 @@
+{
+  "dictionaryDefinitions": [
+    {
+      "name": "loomble",
+      "path": "./langs/en.txt"
+    }
+  ],
+  "dictionaries": ["loomble"],
+  "flagWords": [],
+  "language": "en",
+  "words": []
+}

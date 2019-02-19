@@ -1,0 +1,5 @@
+.DS_Store
+
+/.vscode/csak-timelog.json
+/__coverage__/
+/node_modules/
