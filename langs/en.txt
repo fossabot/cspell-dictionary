@@ -101,6 +101,7 @@ truthy
 tsdoc
 tvos
 typedefs
+typedoc
 typeof
 typeschema
 typeslick
