@@ -94,6 +94,7 @@ symlinked
 toml
 transparentize
 transpiled
+transpiler
 truthy
 tsdoc
 tvos
