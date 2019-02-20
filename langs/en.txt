@@ -61,6 +61,7 @@ npmrc
 npmignore
 opensource
 pandoc
+pika
 polyfill
 pollyfilled
 pollyfiller
