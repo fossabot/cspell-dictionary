@@ -62,6 +62,8 @@ multistatus
 npmrc
 npmignore
 opensource
+packable
+packlint
 pandoc
 pika
 polyfill
@@ -87,6 +89,7 @@ scrollbar
 serializer
 serializers
 sindresorhus
+stylelint
 submodule
 subschema
 subview
