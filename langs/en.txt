@@ -9,6 +9,7 @@ clonedeep
 codestyle
 colourful
 combobox
+commonmark
 comparator
 configomatic
 contrib
