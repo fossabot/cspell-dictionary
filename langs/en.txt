@@ -23,6 +23,8 @@ devtools
 editorconfig
 esnext
 exts
+filename
+filepath
 gitignore
 globstar
 gmail
