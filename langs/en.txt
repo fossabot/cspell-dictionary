@@ -1,6 +1,7 @@
 babelrc
 babelignore
 backoff
+barcode
 bigint
 cacheable
 chunkhash
