@@ -48,6 +48,7 @@ lifecycles
 listitem
 loomble
 macos
+mailroom
 memoized
 michaelquibuyen
 micromatch
