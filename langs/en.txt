@@ -65,6 +65,7 @@ multistatus
 npmrc
 npmignore
 opensource
+overscroll
 packable
 packlint
 pandoc
