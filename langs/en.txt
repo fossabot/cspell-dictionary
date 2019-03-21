@@ -102,6 +102,7 @@ superview
 superviews
 symlink
 symlinked
+styleguide
 stylelint
 toml
 transparentize
