@@ -86,6 +86,7 @@ quotemark
 radiobutton
 readonly
 relook
+repo
 requireable
 retryable
 rylan
