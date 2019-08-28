@@ -31,6 +31,8 @@ filepath
 gitignore
 globstar
 gmail
+graphql
+graphiql
 grayscale
 hotspot
 hsla
