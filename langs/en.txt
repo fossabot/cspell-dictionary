@@ -3,6 +3,7 @@ babelignore
 backoff
 barcode
 bigint
+browserslist
 cacheable
 chunkhash
 clicolor
