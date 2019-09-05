@@ -65,6 +65,7 @@ mquibuyen
 msapplication
 multiline
 multistatus
+netinfo
 npmrc
 npmignore
 opensource
