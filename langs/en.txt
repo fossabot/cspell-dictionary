@@ -109,6 +109,7 @@ symlink
 symlinked
 styleguide
 stylelint
+taptic
 toml
 transparentize
 transpiled
