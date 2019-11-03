@@ -1,6 +1,0 @@
-{
-  "extends": ["tslint-slick/strict"],
-  "cliOptions": {
-    "exclude": ["**/__snapshots__/**"]
-  }
-}
