@@ -8,3 +8,5 @@ const eslintConfig = {
   root: true,
   extends: '@react-native-community'
 }
+
+module.exports = eslintConfig
