@@ -5,9 +5,10 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
+    "spell-check": "cspell -c cspell.json --no-summary --exclude \"yarn.lock package-lock.json node_modules/**\"  \"*\" \"**\" \"*/**\"",
     "test": "jest"
   },
-  "main": "cSpell.json",
+  "main": "cspell.json",
   "homepage": "https://github.com/loomble/cspell-dictionary",
   "bugs": "https://github.com/loomble/cspell-dictionary/issues",
   "repository": {
@@ -23,7 +24,7 @@
     "cspell"
   ],
   "files": [
-    "cSpell.json",
+    "cspell.json",
     "definitions/*"
   ],
   "sideEffects": false,

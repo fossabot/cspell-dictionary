@@ -4,11 +4,11 @@ Dictionary for Code Spell Checker [Visual Studio Code extension](https://marketp
 
 ## Usage
 
-### Add to your `cSpell.json`:
+### Add to your `cspell.json`:
 
 ```json
 {
-  "import": ["./node_modules/@loomble/cspell-dictionary/cSpell.json"],
+  "import": ["./node_modules/@loomble/cspell-dictionary/cspell.json"],
 }
 ```
 
