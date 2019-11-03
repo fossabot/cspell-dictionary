@@ -4,15 +4,15 @@
 /**
  * @type jest.ProjectConfig
  */
-const config = {
+const jestConfig = {
   coverageDirectory: './__coverage__',
   moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx', 'json', 'node'],
   snapshotSerializers: ['jest-serializer-path'],
   testEnvironment: 'node',
-  testRegex: '(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$',
+  testMatch: ['**/__tests__/**/*.test.ts?(x)'],
   transform: {
     '^.+\\.tsx?$': 'babel-jest'
   }
 }
 
-module.exports = config
+module.exports = jestConfig
