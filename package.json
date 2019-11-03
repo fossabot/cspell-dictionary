@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
+    "build": "",
     "spell-check": "cspell -c cspell.json --no-summary --exclude \"yarn.lock package-lock.json node_modules/**\"  \"*\" \"**\" \"*/**\"",
     "test": "jest"
   },
