@@ -1,0 +1,3 @@
+[submodule "__meta__/cspell-dictionary"]
+	path = __meta__/cspell-dictionary
+	url = git@github.com:loomble/cspell-dictionary.git
