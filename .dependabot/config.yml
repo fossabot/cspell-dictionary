@@ -1,5 +1,15 @@
 version: 1
 update_configs:
-  - package_manager: "javascript"
+  - automerged_updates:
+      - match:
+          dependency_type: "development"
+          update_type: "all"
+      - match:
+          dependency_type: "production"
+          update_type: "all"
+    commit_message:
+      prefix: "chore(deps): "
     directory: "/"
+    package_manager: "javascript"
     update_schedule: "live"
+    version_requirement_updates: "widen_ranges"
