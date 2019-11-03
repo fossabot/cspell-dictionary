@@ -3,21 +3,26 @@
   "dictionaryDefinitions": [
     {
       "file": "code.txt",
-      "name": "code",
+      "name": "loomble-code",
       "path": "./definitions"
     },
     {
       "file": "companies.txt",
-      "name": "companies",
+      "name": "loomble-companies",
       "path": "./definitions"
     },
     {
       "file": "team.txt",
-      "name": "team",
+      "name": "loomble-team",
       "path": "./definitions"
     }
   ],
-  "dictionaries": ["code", "companies", "team"],
+  "dictionaries": [
+    "loomble-code", 
+    "loomble-companies", 
+    "loomble-team", 
+    "html-symbol-entities"
+  ],
   "flagWords": [],
   "language": "en"
 }
