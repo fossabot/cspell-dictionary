@@ -1,3 +1,4 @@
+automerge
 babelrc
 babelignore
 backoff
