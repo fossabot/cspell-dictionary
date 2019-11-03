@@ -11,6 +11,9 @@ const cwd = process.cwd()
  * @returns Words found in the dictionary file.
  */
 export const getWordsFromFile = async (fileName: string): Promise<string[]> => {
-  const contents = await fs.readFile(path.join(cwd, 'langs', fileName), 'utf8')
+  const contents = await fs.readFile(
+    path.join(cwd, 'definitions', `${fileName}.txt`),
+    'utf8'
+  )
   return contents.trim().split('\n')
 }

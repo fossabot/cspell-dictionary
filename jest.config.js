@@ -1,11 +1,10 @@
 // @ts-check
+/// <reference types="@types/jest" />
 
 /**
- * @type Partial<jest.ProjectConfig>
+ * @type jest.ProjectConfig
  */
-const config = {}
-
-Object.assign(config, {
+const jestConfig = {
   coverageDirectory: './__coverage__',
   moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx', 'json', 'node'],
   snapshotSerializers: ['jest-serializer-path'],
@@ -14,6 +13,6 @@ Object.assign(config, {
   transform: {
     '^.+\\.tsx?$': 'babel-jest'
   }
-})
+}
 
-module.exports = config
+module.exports = jestConfig

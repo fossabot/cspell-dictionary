@@ -1,12 +1,23 @@
 {
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/master/cspell.schema.json",
   "dictionaryDefinitions": [
     {
-      "name": "loomble",
-      "path": "./langs/en.txt"
+      "file": "code.txt",
+      "name": "code",
+      "path": "./definitions"
+    },
+    {
+      "file": "companies.txt",
+      "name": "companies",
+      "path": "./definitions"
+    },
+    {
+      "file": "team.txt",
+      "name": "team",
+      "path": "./definitions"
     }
   ],
-  "dictionaries": ["loomble"],
+  "dictionaries": ["code", "companies", "team"],
   "flagWords": [],
-  "language": "en",
-  "words": []
+  "language": "en"
 }

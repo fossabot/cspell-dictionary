@@ -1,13 +1,12 @@
 {
-  "extends": "tsconfig-slick/esnext.json",
+  "$schema": "http://json.schemastore.org/tsconfig",
+  "extends": "tsconfig-slick",
   "compilerOptions": {
-    "plugins": [
-      {
-        "name": "typescript-tslint-plugin"
-      }
-    ],
-    "types": ["jest", "node"],
-    "lib": ["esnext"]
-  },
-  "exclude": ["dist"]
+    "baseUrl": "./",
+    "paths": {
+      "*": ["*", "*.ios", "*.android", "*.native", "*.web"]
+    },
+    "types": ["babel-preset-slick", "jest", "node"],
+    "lib": ["dom", "esnext"]
+  }
 }

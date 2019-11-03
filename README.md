@@ -8,13 +8,7 @@ Dictionary for Code Spell Checker [Visual Studio Code extension](https://marketp
 
 ```json
 {
-  "dictionaryDefinitions": [
-    {
-      "name": "loomble",
-      "path": "./node_modules/@loomble/cspell-dictionary/langs/en.txt"
-    }
-  ],
-  "dictionaries": ["loomble"]
+  "import": ["./node_modules/@loomble/cspell-dictionary/cSpell.json"],
 }
 ```
 

@@ -1,3 +1,5 @@
-This project follows the Loomble Community Guidelines / Code of Conduct:
+# Code of Conduct
 
-https://loomble.com/guidelines
+This [Loomble](https://loomble.com/) project follows the Loomble Community Guidelines:
+
+<https://loomble.com/guidelines>
