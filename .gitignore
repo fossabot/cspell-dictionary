@@ -62,3 +62,6 @@ buck-out/
 #
 compiled/
 dist/
+
+# Coverage
+__coverage__/
