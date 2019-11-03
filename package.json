@@ -2,7 +2,7 @@
   "$schema": "http://json.schemastore.org/package",
   "name": "@loomble/cspell-dictionary",
   "description": "Dictionary for Code Spell Checker.",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "test": "jest"
