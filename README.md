@@ -22,4 +22,4 @@ Dictionary for Code Spell Checker [Visual Studio Code extension](https://marketp
 
 ## License
 
-[MIT](./LICENSE)
+[MIT](https://github.com/loomble/cspell-dictionary/blob/master/LICENSE)
