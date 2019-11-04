@@ -13,6 +13,7 @@ clonedeep
 codestyle
 colourful
 combobox
+commitlint
 commonmark
 comparator
 configomatic
