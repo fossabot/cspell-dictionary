@@ -51,6 +51,7 @@ lifecycles
 listitem
 macos
 mailroom
+markdownlint
 memoized
 micromatch
 micropayment
