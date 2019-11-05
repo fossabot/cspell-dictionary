@@ -58,6 +58,6 @@
     "normalize-package-data": "2.5.0",
     "prettier": "prettier/prettier",
     "tsconfig-slick": "3.0.2",
-    "typescript": "3.7.0-dev.20191021"
+    "typescript": "3.7.2"
   }
 }
