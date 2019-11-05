@@ -51,7 +51,7 @@
     "core-js": "3.3.6",
     "cspell": "4.0.32",
     "fs-extra": "8.1.0",
-    "packlint": "1.0.1",
+    "packlint": "1.0.3",
     "jest": "24.9.0",
     "jest-config": "24.9.0",
     "jest-serializer-path": "0.1.15",
