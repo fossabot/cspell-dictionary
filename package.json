@@ -49,7 +49,7 @@
     "babel-preset-slick": "7.0.4",
     "babel-runtime": "7.0.0-beta.3",
     "core-js": "3.3.6",
-    "cspell": "4.0.32",
+    "cspell": "4.0.33",
     "fs-extra": "8.1.0",
     "packlint": "1.0.1",
     "jest": "24.9.0",
