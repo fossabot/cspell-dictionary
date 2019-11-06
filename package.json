@@ -35,7 +35,7 @@
     "@babel/core": "7.6.4",
     "@babel/node": "7.6.3",
     "@babel/preset-env": "7.6.3",
-    "@babel/preset-typescript": "7.6.0",
+    "@babel/preset-typescript": "7.7.2",
     "@babel/runtime": "7.6.3",
     "@babel/runtime-corejs2": "7.6.3",
     "@types/babel__core": "7.1.3",
